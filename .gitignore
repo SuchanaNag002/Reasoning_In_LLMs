@@ -125,3 +125,5 @@ dmypy.json
 # Ignore CSV and TXT files (if these are generated output files)
 *.csv
 *.txt
+
+!requirements.txt
